@@ -8,4 +8,5 @@ My main language is Python, but I'm learning JavaScript too
 
 
 LinkedIn https://www.linkedin.com/in/vitor-dalla-vecchia/
-Visit my site vitordalla.tech  
+<br>
+Visit my site https://vitordalla.tech  
