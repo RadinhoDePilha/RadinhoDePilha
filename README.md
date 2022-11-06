@@ -25,6 +25,10 @@
                 width="25"
                 height="25"
                 align="center" />
+            <img src="https://logospng.org/download/css-3/logo-css-3-1024.png"
+                width="25"
+                height="25"
+                align="center" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"
                 width="25"
                 height="25"
@@ -34,10 +38,6 @@
                 height="25"
                 align="center" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-                width="25"
-                height="25"
-                align="center" />
-            <img src="https://w7.pngwing.com/pngs/978/465/png-transparent-learning-opencv-computer-vision-machine-learning-c-robotics-text-computer-logo-thumbnail.png"
                 width="25"
                 height="25"
                 align="center" />
